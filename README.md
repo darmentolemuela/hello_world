@@ -6,3 +6,4 @@
 
 
 by: LEMUELA KIRSTEN DARMENTO
+サーバ上で編集したよ。
